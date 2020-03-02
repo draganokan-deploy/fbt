@@ -8,7 +8,7 @@
 ### Run locally
 
 - just frontend: `cd /app && yarn start`
-- serve, together with lambdas: `firebase server`
+- serve, together with lambdas: `firebase serve`
 
 ### Deploy
 
