@@ -12,4 +12,13 @@
 
 ### Deploy
 
+build front:
+`cd /app && yarn build`
+
+deploy all:
 `firebase deploy`
+
+----
+
+- live website: https://my-first-firebase-projec-40363.firebaseapp.com/
+- functions at: `https://us-central1-<project-id>.cloudfunctions.net/<id>` (https://us-central1-my-first-firebase-projec-40363.cloudfunctions.net/helloWorld e.g.)
