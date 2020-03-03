@@ -1,3 +1,5 @@
+Frontend lives in the `/app`, while backend (lambda functions) live in the `/functions`. Project uses `yarn`, but `npm` can be used as well. Frontend's boilerplate was made via Create-React-App.
+
 ### Installation
 
 - install Firebase CLI: `yarn global add firebase-tools` or `npm install -g firebase-tools`
